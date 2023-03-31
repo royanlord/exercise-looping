@@ -12,4 +12,5 @@ Step : pertama saya deklarasi variabel nilaiAwal dengan value 0 dan variabel loo
 3. File soal3 diminta untuk membuat iterasi dari 0 sampai 20 lalu setiap nilai akan dicek dalam setiap looping dan di outputkan keterangan bilangan ganjil atau genap sesuai nilai tersebut
 Step : pertama saya membuat for loop dengan nilai awal i adalah 0 dan i kurang dari atau sama dengan 20. Lalu dalam proses looping, terdapat condition jika i modulus 2 == 0 maka akan meng-outputkan keterangan "i adalah bilangan genap". Begitupun sebaliknya akan meng-outputkan "i adalah bilangan ganjil".
 
-4. File soal4
+4. File soal4 diminta untuk menampilkan konfirmasi popup.
+Step : pertama saya deklarasi 2 variabel yaitu say dengan value "Apakah anda mau mengulang?" dan count dengan value 0. Variabel count ini nantinya untuk menghitung jumlah klik tombol "Ok". Lalu saya membuat perulangan dengan while dimana parameternya true. Di dalam perulangan itu terdapat condition dengan expression confirm() dan statement count++ untuk melakukan iterasi jika user klik tombol "Ok". Sedangkan di dalam else terdapat code document.write() yang berfungsi untuk menampilkan teks berapa kali jumlah tombol "Ok" di klik setelah user klik tombol "Cancel"
