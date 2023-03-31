@@ -1,6 +1,6 @@
 # exercise-looping
 
-Nama : Royan Farid Fathurrahman
+Nama : Royan Farid Fathurrahman<br/>
 Kelompok : FE-24
 
 1. File soal1 diminta menampilkan teks "User ke-1 ... User ke-100" pada halaman HTML
